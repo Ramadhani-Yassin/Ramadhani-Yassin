@@ -17,7 +17,7 @@ I'm a passionate **full-stack developer, cybersecurity enthusiast, and business-
 - **UNIDOCS**: A centralized system for automated university document generation.
 - **TechVerse Crew**: A tech-driven initiative fostering digital transformation.
 
-## 💞️ Collaboration & Interests
+## 🤠 Collaboration & Interests
 I'm open to collaborating on:
 - **AI & Cybersecurity** projects
 - **Full-stack software development**
@@ -27,7 +27,7 @@ I'm open to collaborating on:
 ## 📫 Connect With Me
 - **Email**: [yasynramah@gmail.com](mailto:yasynramah@gmail.com)
 - **Instagram**: [@rm_tech.tz](https://www.instagram.com/rm_tech.tz/)
-- **Website**: [RM TECH](https://rmtech.digital/)
+- **Website**: [https://www.rmtech.digital](https://www.rmtech.digital/)
 - **GitHub**: [@Ramadhani-Yassin](https://github.com/Ramadhani-Yassin)
 
 ## 😄 Pronouns
