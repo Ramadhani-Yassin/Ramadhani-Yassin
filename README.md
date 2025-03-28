@@ -3,6 +3,17 @@
 🚀 **Tech Enthusiast | Software Developer | Cybersecurity Learner | TechAccountant**
 
 ---
+## 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+
+---
 
 ## 👀 About Me
 I'm a passionate **full-stack developer, cybersecurity enthusiast, and business-driven tech innovator**. I blend technology with accounting expertise to create impactful solutions in the digital space. With a strong background in **network administration, mobile & web development, and digital branding**, I constantly strive to push the boundaries of innovation.
