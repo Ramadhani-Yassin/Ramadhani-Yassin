@@ -25,9 +25,11 @@ An AI-powered platform for **automating document generation, storage, and retrie
 **Restaurant Management & POS System**  
 A comprehensive solution for **Balungi Restaurant**, covering order management, billing, and analytics.  
 
-**Web Development Work:**  
-- **Chwaka House Website**: [The Chwaka House](https://www.chwakahouse.co.tz)  
-- **SAMOK Consulting Website**: [SAMOK CONSULTING](https://www.samokconsulting.co.tz)  
+---
+
+### **📌 WEB DEVELOPMENT WORKS:**  
+- **The Chwaka House Website**: [www.chwakahouse.co.tz](https://www.chwakahouse.co.tz)  
+- **SAMOK Consulting Website**: [www.samokconsulting.co.tz](https://www.samokconsulting.co.tz)  
 
 ---  
 
