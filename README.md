@@ -5,34 +5,34 @@
 ---
 ## 🛠️ Tech Stack
 <div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
-  <a href="https://github.com/Ramadhani-Yassin/Ramadhani-Yassin/" style="text-decoration: none;">
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
-  <a href="https://github.com/Ramadhani-Yassin/Ramadhani-Yassin/" style="text-decoration: none;">
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
   </a>
-  <a href="https://github.com/Ramadhani-Yassin/Ramadhani-Yassin/" style="text-decoration: none;">
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
   </a>
-  <a href="https://github.com/Ramadhani-Yassin/Ramadhani-Yassin/" style="text-decoration: none;">
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
   </a>
-  <a href="https://github.com/Ramadhani-Yassin/Ramadhani-Yassin/" style="text-decoration: none;">
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
   </a>
-  <a href="https://github.com/Ramadhani-Yassin/Ramadhani-Yassin/" style="text-decoration: none;">
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
   </a>
-  <a href="https://github.com/Ramadhani-Yassin/Ramadhani-Yassin/" style="text-decoration: none;">
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
   </a>
-  <a href="https://github.com/Ramadhani-Yassin/Ramadhani-Yassin/" style="text-decoration: none;">
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
   </a>
-  <a href="https://github.com/Ramadhani-Yassin/Ramadhani-Yassin/" style="text-decoration: none;">
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
   </a>
-  <a href="https://github.com/Ramadhani-Yassin/Ramadhani-Yassin/" style="text-decoration: none;">
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   </a>
 </div>
