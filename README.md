@@ -16,7 +16,7 @@ A streamlined, user-friendly POS solution designed for **Nduko Shop**, enabling 
 ---  
 
 ### **📌 UNIDOCS**  
-**University Documents Automated Management System **  
+**University Documents Automated Management System**  
 Smart platform for **automating Administrative Letters / documents generation, storage, and retrieval** in academic institutions.  
 
 ---  
@@ -29,7 +29,7 @@ A comprehensive solution for **Balungi Restaurant**, covering order management, 
 
 ### **📌 WEB DEVELOPMENT WORKS:**  
 - **The Chwaka House Website**: [www.chwakahouse.co.tz](https://www.chwakahouse.co.tz)  
-- **SAMOK Consulting Website**: [www.samokconsulting.co.tz](https://www.samokconsulting.co.tz)  
+<!--- **SAMOK Consulting Website**: [www.samokconsulting.co.tz](https://www.samokconsulting.co.tz)  -->
 
 ---  
 
