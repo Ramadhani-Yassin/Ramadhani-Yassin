@@ -12,8 +12,9 @@ I'm a passionate **full-stack developer, cybersecurity enthusiast, and business-
 - **TechVerse Crew**: A tech-driven initiative fostering digital transformation.
 
 ## 📫 Connect With Me
-- **Email**: [yasynramah@gmail.com](mailto:yasynramah@gmail.com)
-- **Instagram**: [@rm_tech.tz](https://www.instagram.com/rm_tech.tz/)
-- **Website**: [https://www.rmtech.digital](https://www.rmtech.digital/)
-- **GitHub**: [@Ramadhani-Yassin](https://github.com/Ramadhani-Yassin)
+- [GitHub](https://github.com/Ramadhani-Yassin)  
+- [LinkedIn](https://www.linkedin.com/in/ramadhani-yassin-ramadhani/)
+- [Email](mailto:yasynramah@gmail.com)
+- [Instagram](https://www.instagram.com/rm_tech.tz/)
+   
 
