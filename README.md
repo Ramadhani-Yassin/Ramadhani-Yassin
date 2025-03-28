@@ -4,7 +4,7 @@
 
 ---
 ## 🛠️ Tech Stack
-<div style="display: flex; flex-wrap: wrap; gap: 0.5rem;">
+<div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 0.3rem; padding-bottom: 0.5rem;">
   <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
   </a>
