@@ -28,8 +28,8 @@ A comprehensive solution for **Balungi Restaurant**, covering order management, 
 ---
 
 ### **📌 WEB DEVELOPMENT WORKS:**  
-- **The Chwaka House Website**: [www.chwakahouse.co.tz](https://www.chwakahouse.co.tz)  
-<!--- **SAMOK Consulting Website**: [www.samokconsulting.co.tz](https://www.samokconsulting.co.tz)  -->
+- **The Chwaka House Website** [![Status: Live](https://img.shields.io/badge/Status-Live-brightgreen)] [www.chwakahouse.co.tz](https://www.chwakahouse.co.tz)
+- **SAMOK Consulting Website** [![Status: Under Development](https://img.shields.io/badge/Status-Under_Development-orange)] [www.samokconsulting.co.tz](https://www.samokconsulting.co.tz)
 
 ---  
 
