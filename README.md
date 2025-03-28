@@ -12,24 +12,12 @@ I'm a passionate **full-stack developer, cybersecurity enthusiast, and business-
 ### **📌 NDUKO-SHOP**  
 **Point of Sale (POS) System**  
 A streamlined, user-friendly POS solution designed for **Nduko Shop**, enabling efficient sales tracking, inventory management, and reporting.  
-
-🔹 **Features:**  
-✔ Real-time sales processing  
-✔ Inventory tracking & low-stock alerts  
-✔ Customer purchase history  
-✔ Multi-user access control  
-
+ 
 ---  
 
 ### **📌 UNIDOCS**  
 **University Documents Automated Management System (UDAMS)**  
 An AI-powered platform for **automating document generation, storage, and retrieval** in academic institutions.  
-
-🔹 **Features:**  
-✔ AI-driven document classification (transcripts, certificates, etc.)  
-✔ Secure cloud-based storage with role-based access  
-✔ Compliance with FERPA/GDPR standards  
-✔ Integration with university ERP/LMS systems  
 
 ---  
 
@@ -37,15 +25,9 @@ An AI-powered platform for **automating document generation, storage, and retrie
 **Restaurant Management & POS System**  
 A comprehensive solution for **Balungi Restaurant**, covering order management, billing, and analytics.  
 
-🔹 **Features:**  
-✔ Table reservations & order tracking  
-✔ Split billing & payment integration  
-✔ Kitchen order automation  
-✔ Sales performance dashboards  
-
-**Related Work:**  
-- **Chwaka House Website**: [https://www.chwakahouse.co.tz](https://www.chwakahouse.co.tz)  
-- **SAMOK Consulting Website**: [https://www.samokconsulting.co.tz](https://www.samokconsulting.co.tz)  
+**Web Development Work:**  
+- **Chwaka House Website**: [The Chwaka House](https://www.chwakahouse.co.tz)  
+- **SAMOK Consulting Website**: [SAMOK CONSULTING](https://www.samokconsulting.co.tz)  
 
 ---  
 
