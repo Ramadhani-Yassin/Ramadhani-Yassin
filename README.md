@@ -16,7 +16,7 @@ A streamlined, user-friendly POS solution designed for **Nduko Shop**, enabling 
 ---  
 
 ### **📌 UNIDOCS**  
-**University Documents Automated Management System (UDAMS)**  
+**University Documents Automated Management System **  
 Smart platform for **automating Administrative Letters / documents generation, storage, and retrieval** in academic institutions.  
 
 ---  
