@@ -69,19 +69,19 @@ A comprehensive solution for **Balungi Restaurant**, covering order management, 
 ---  
 
 ## 📫 Connect With Me
-<div style="display: flex; gap: 12px; align-items: center;">
-  <span>Find me on</span>
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+  <span style="font-size: 1.1em; margin-right: 5px;">Find me on</span>
   <a href="https://github.com/Ramadhani-Yassin" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="24" height="24">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28">
   </a>
   <a href="https://www.linkedin.com/in/ramadhani-yassin-ramadhani/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="LinkedIn" width="24" height="24">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28">
   </a>
   <a href="mailto:yasynramah@gmail.com" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="Email" width="24" height="24">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28">
   </a>
   <a href="https://www.instagram.com/rm_tech.tz/" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png" alt="Instagram" width="24" height="24">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28">
   </a>
 </div>
    
