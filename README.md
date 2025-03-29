@@ -70,7 +70,6 @@ A comprehensive solution for **Balungi Restaurant**, covering order management, 
 
 ## 📫 Connect With Me
 <div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
-  <span style="font-size: 1.1em; margin-right: 5px;">Find me on</span>
   <a href="https://github.com/Ramadhani-Yassin" target="_blank" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28">
   </a>
