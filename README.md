@@ -69,6 +69,20 @@ A comprehensive solution for **Balungi Restaurant**, covering order management, 
 ---  
 
 ## 📫 Connect With Me
-> Find me on [GitHub](https://github.com/Ramadhani-Yassin) | [LinkedIn](https://www.linkedin.com/in/ramadhani-yassin-ramadhani/) | [Email](mailto:yasynramah@gmail.com) | [Instagram](https://www.instagram.com/rm_tech.tz/) 
+<div style="display: flex; gap: 12px; align-items: center;">
+  <span>Find me on</span>
+  <a href="https://github.com/Ramadhani-Yassin" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="24" height="24">
+  </a>
+  <a href="https://www.linkedin.com/in/ramadhani-yassin-ramadhani/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/linkedin.png" alt="LinkedIn" width="24" height="24">
+  </a>
+  <a href="mailto:yasynramah@gmail.com" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/email.png" alt="Email" width="24" height="24">
+  </a>
+  <a href="https://www.instagram.com/rm_tech.tz/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/instagram-new.png" alt="Instagram" width="24" height="24">
+  </a>
+</div>
    
 
