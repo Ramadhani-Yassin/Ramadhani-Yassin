@@ -1,49 +1,87 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+# 👋 Hi, I'm Ramadhani Yassin
 
-###
+🚀 **Tech Enthusiast | Software Developer | Cybersecurity Learner | TechAccountant**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+---
+## 🛠️ Tech Stack
+<div style="display: flex; overflow-x: auto; white-space: nowrap; gap: 0.3rem; padding-bottom: 0.5rem;">
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  </a>
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+  </a>
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
+  </a>
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular">
+  </a>
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
+  </a>
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
+  </a>
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  </a>
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+  </a>
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart">
+  </a>
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  </a>
 </div>
 
-###
+---
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+## 👀 About Me
+I'm a passionate **full-stack developer, cybersecurity enthusiast, and business-driven tech innovator**. I blend technology with accounting expertise to create impactful solutions in the digital space. With a strong background in **network administration, mobile & web development, and digital branding**, I constantly strive to push the boundaries of innovation.
 
-###
+# **💡 Projects & Innovations**  
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+### **📌 NDUKO-SHOP**  
+**Point of Sale (POS) System**  
+A streamlined, user-friendly POS solution designed for **Nduko Shop**, enabling efficient sales tracking, inventory management, and reporting.  
+ 
+---  
+
+### **📌 UNIDOCS**  
+**University Documents Automated Management System**  
+Smart platform for **automating Administrative Letters / documents generation, storage, and retrieval** in academic institutions.  
+
+---  
+
+### **📌 BALUNGI-RESTAURANT-POS**  
+**Restaurant Management & POS System**  
+A comprehensive solution for **Balungi Restaurant**, covering order management, billing, and analytics.  
+
+---
+
+### **📌 WEB DEVELOPMENT WORKS:**  
+- **The Chwaka House Website** [www.chwakahouse.co.tz](https://www.chwakahouse.co.tz) [![Live](https://img.shields.io/badge/Status-Live-brightgreen)](https://www.chwakahouse.co.tz) 
+- **SAMOK Consulting Website** [www.samokconsulting.co.tz](https://www.samokconsulting.co.tz) [![Under Development](https://img.shields.io/badge/Status-Under_Development-orange)](https://www.samokconsulting.co.tz)
+
+---  
+
+## 📫 Connect With Me
+<div style="display: flex; gap: 10px; align-items: center; flex-wrap: wrap;">
+  <a href="https://github.com/Ramadhani-Yassin" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="28">
+  </a>
+  <a href="https://www.linkedin.com/in/ramadhani-yassin-ramadhani/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="28">
+  </a>
+  <a href="mailto:yasynramah@gmail.com" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="28">
+  </a>
+  <a href="https://www.instagram.com/rm_tech.tz/" target="_blank" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" height="28">
+  </a>
 </div>
+   
 
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
-###
