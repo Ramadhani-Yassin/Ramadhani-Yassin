@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ramadhani Yassin
 
-🚀 **Tech Enthusiast | Software Developer | Cybersecurity Learner | TechAccountant**
+🚀 **Tech Enthusiast | Software Developer | DataBrick DE Learner | TechAccountant**
 
 ---
 ## 🛠️ Tech Stack
