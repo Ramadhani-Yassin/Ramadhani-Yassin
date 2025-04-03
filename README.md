@@ -36,6 +36,21 @@
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   </a>
   <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android">
+</a>
+<a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
+</a>
+<a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+</a>
+<a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
+</a>
+<a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
+    <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron">
+</a>
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </a>
 <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
