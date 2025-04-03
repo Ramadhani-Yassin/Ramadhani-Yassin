@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Ramadhani Yassin 
+# 👋 Hi, I'm Ramadhani
 
 **🚀 Tech Enthusiast | Full-Stack Developer | DataBricks Learner | Tech-Savvy Accountant**
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 👨💻 About Me
+## 👨🏾💻 About Me
 
 A versatile developer blending **technical expertise** with **accounting acumen**. My passion lies in:
 - Building full-stack solutions with cybersecurity best practices
