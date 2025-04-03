@@ -46,7 +46,7 @@
 </a>
 <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white" alt="Electron">
-</a>
+</a><br><br>
   <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </a>
