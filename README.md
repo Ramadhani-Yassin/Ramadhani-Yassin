@@ -35,16 +35,16 @@
   <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
   </a>
-  <a href="https://www.postgresql.org/" style="text-decoration: none;">
+  <a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
 </a>
-<a href="https://en.wikipedia.org/wiki/SQL" style="text-decoration: none;">
+<a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=database&logoColor=white" alt="SQL">
 </a>
-<a href="https://www.mongodb.com/" style="text-decoration: none;">
+<a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
 </a>
-<a href="https://www.mysql.com/" style="text-decoration: none;">
+<a href="https://github.com/Ramadhani-Yassin" style="text-decoration: none;">
     <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </a>
 </div>
