@@ -34,7 +34,7 @@
 ---
 ## 👨🏾💻 About Me
 
-A versatile developer blending **Technical expertise** with **Accounting acumen**. My passion lies in:
+A versatile developer blending **Technical expertise** with **Accounting acumen**.
 
 
 **Core Competencies:**  
