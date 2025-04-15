@@ -42,7 +42,7 @@ A versatile developer blending **technical expertise** with **accounting acumen*
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
 ---
 
 
