@@ -44,51 +44,16 @@ A versatile developer blending **Technical expertise** with **Accounting acumen*
 ✔️ Digital Branding Strategy  
 
 ---
+## 🌐 Project Portfolio
 
-## 🚀 Featured Projects
-
- ### 📦 NDUKO-SHOP POS System
-**Retail Management Solution**  
-Modern POS system featuring:
-- Real-time sales tracking
-- Inventory management
-- Automated reporting
-- Customer relationship tools
-
-### 🎓 UNIDOCS Automation System
-**Academic Document Management**  
-Digital solution for universities:
-- Automated document generation
-- Secure cloud storage
-- Intelligent retrieval system
-- Role-based access control
-
-### 🍽️ BALUNGI Restaurant POS
-**Hospitality Management Suite**  
-Comprehensive platform offering:
-- Table management
-- Multi-payment integration
-- Kitchen order tracking
-- Sales analytics dashboard
-
-
-### 🛒 Zanzibar Grocery App  
-**Digital Grocery Solution**  
-Comprehensive platform offering:  
-- Customer mobile ordering (Android app)  
-- Shopkeeper inventory management (Web portal)  
-- Real-time delivery tracking  
-- Automated sales reporting 
-
----
-
-## 🌐 Web Development Portfolio
-
-| Project | URL | Status |
-|---------|-----|--------|
-| The Chwaka House | [chwakahouse.co.tz](https://www.chwakahouse.co.tz) | ![Live](https://img.shields.io/badge/Live-Success-brightgreen) |
-| SAMOK Consulting | [samokconsulting.co.tz](https://www.samokconsulting.co.tz) | ![Dev](https://img.shields.io/badge/In_Development-Orange) |
-
+| Project               | Type         | URL                                                                 | Status |
+|-----------------------|--------------|---------------------------------------------------------------------|--------|
+| The Chwaka House      | Website      | [chwakahouse.co.tz](https://www.chwakahouse.co.tz)                 | ![Live](https://img.shields.io/badge/Live-Success-brightgreen) |
+| SAMOK Consulting      | Website      | [samokconsulting.co.tz](https://www.samokconsulting.co.tz)         | ![Dev](https://img.shields.io/badge/In_Development-Orange) |
+| Zanzibar Grocery App  | Mobile + Web | [GitHub Repo](https://github.com/Ramadhani-Yassin/Grocery-App)     | ![Active](https://img.shields.io/badge/Active-Development-blue) |
+| BALUNGI Restaurant POS| Desktop POS  | [GitHub Repo](https://github.com/Ramadhani-Yassin/BALUNGI-RESTAURANT-POS) | ![Live](https://img.shields.io/badge/Deployed-Success-brightgreen) |
+| UNIDOCS Automation    | Web System   | [GitHub Repo](https://github.com/Ramadhani-Yassin/UNIDOCS)         | ![Active](https://img.shields.io/badge/Active-Development-blue) |
+| NDUKO-SHOP            | Retail POS   | [GitHub Repo](https://github.com/Ramadhani-Yassin/NDUKO-SHOP)     | ![Live](https://img.shields.io/badge/Deployed-Success-brightgreen) |
 ---
 
 ## 📬 Let's Connect
