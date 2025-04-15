@@ -9,6 +9,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true&include_all_commits=true" style="height: 195px; border-radius: 8px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhani-Yassin&theme=radical&layout=compact" style="height: 195px; border-radius: 8px;">
 </div>
+
 ---
 
 ## 🛠️ Tech Stack
@@ -69,6 +70,15 @@ Comprehensive platform offering:
 - Multi-payment integration
 - Kitchen order tracking
 - Sales analytics dashboard
+
+
+### 🛒 Zanzibar Grocery App  
+**Digital Grocery Solution**  
+Comprehensive platform offering:  
+- Customer mobile ordering (Android app)  
+- Shopkeeper inventory management (Web portal)  
+- Real-time delivery tracking  
+- Automated sales reporting  
 
 ---
 
