@@ -36,7 +36,7 @@
 
 </div>
 
-
+---
 
 ## 🚀 Featured Projects
 
