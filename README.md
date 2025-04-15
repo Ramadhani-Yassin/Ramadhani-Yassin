@@ -47,58 +47,38 @@ A versatile developer blending **Technical expertise** with **Accounting acumen*
 
 ## 🚀 Featured Projects
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td valign="top">
-
-### 📦 NDUKO-SHOP POS  
+ ### 📦 NDUKO-SHOP POS System
 **Retail Management Solution**  
-Modern POS system featuring:  
-- Real-time sales tracking  
-- Inventory management  
-- Automated reporting  
-- Customer relationship tools  
+Modern POS system featuring:
+- Real-time sales tracking
+- Inventory management
+- Automated reporting
+- Customer relationship tools
 
-    </td>
-    <td valign="top">
+### 🎓 UNIDOCS Automation System
+**Academic Document Management**  
+Digital solution for universities:
+- Automated document generation
+- Secure cloud storage
+- Intelligent retrieval system
+- Role-based access control
 
-### 🎓 UNIDOCS  
-**Academic Automation**  
-Digital solution for universities:  
-- Automated document generation  
-- Secure cloud storage  
-- Intelligent retrieval  
-- Role-based access  
+### 🍽️ BALUNGI Restaurant POS
+**Hospitality Management Suite**  
+Comprehensive platform offering:
+- Table management
+- Multi-payment integration
+- Kitchen order tracking
+- Sales analytics dashboard
 
-    </td>
-  </tr>
-  <tr>
-    <td valign="top">
 
-### 🍽️ BALUNGI  
-**Hospitality Suite**  
+### 🛒 Zanzibar Grocery App  
+**Digital Grocery Solution**  
 Comprehensive platform offering:  
-- Table management  
-- Multi-payment integration  
-- Kitchen order tracking  
-- Sales analytics  
-
-    </td>
-    <td valign="top">
-
-### 🛒 Zanzibar Grocery  
-**Digital Marketplace**  
-End-to-end solution featuring:  
-- Customer Android app  
-- Shopkeeper web portal  
+- Customer mobile ordering (Android app)  
+- Shopkeeper inventory management (Web portal)  
 - Real-time delivery tracking  
-- Inventory synchronization  
-
-    </td>
-  </tr>
-</table>
+- Automated sales reporting 
 
 ---
 
