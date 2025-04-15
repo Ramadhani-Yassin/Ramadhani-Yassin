@@ -28,14 +28,38 @@
 
 ## 👨🏾💻 About Me
 
-<div align="center">
+<table>
+  <!-- Desktop View -->
+  <tr>
+    <td width="60%" style="border:none;">
+      **A versatile developer** blending **Technical expertise** with **Accountancy acumen**.
+      <br><br>
+      **Core Competencies:**<br>
+      ✔️ Cross-Platform Development<br>
+      ✔️ Network Administration<br>
+      ✔️ Database Architecture<br>
+      ✔️ Digital Branding Strategy
+    </td>
+    <td width="40%" style="border:none;">
+      <img src="https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true" width="100%">
+    </td>
+  </tr>
+</table>
+
+<!-- Mobile Fallback -->
+<details>
+  <summary><b>📱 Mobile View</b></summary>
   
-| | |
-|-|-|
-| <div align="left"> **A versatile developer** blending **Technical expertise** with **Accountancy acumen**.<br><br>**Core Competencies:**<br>✔️ Cross-Platform Development<br>✔️ Network Administration<br>✔️ Database Architecture<br>✔️ Digital Branding Strategy </div> | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true) |
-
-</div>
-
+  **A versatile developer** blending **Technical expertise** with **Accountancy acumen**.
+  
+  **Core Competencies:**  
+  ✔️ Cross-Platform Development  
+  ✔️ Network Administration  
+  ✔️ Database Architecture  
+  ✔️ Digital Branding Strategy
+  
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true)
+</details>
 ---
 
 ## 🚀 Featured Projects
