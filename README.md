@@ -45,7 +45,7 @@ A versatile developer blending **technical expertise** with **accounting acumen*
 
 ## 🚀 Featured Projects
 
-| 🛍️ Retail POS | 📚 Academic System | 🍽️ Restaurant POS | 🛒 Grocery Ecosystem |
+
 |--------------|------------------|------------------|---------------------|
 | **NDUKO-SHOP** | **UNIDOCS** | **BALUNGI** | **Zanzibar Grocery** |
 | 📊 Live sales | 🤖 Auto-docs | 🪑 Tables | 📱 User app |
