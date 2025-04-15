@@ -45,42 +45,13 @@ A versatile developer blending **technical expertise** with **accounting acumen*
 
 ## 🚀 Featured Projects
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
-
-<div style="border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f0f0f0, #ffffff); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-
-### 📦 NDUKO-SHOP  
-**Retail POS System**  
-🔹 Real-time sales tracking  
-🔹 Inventory management  
-🔹 Automated reporting  
-🔹 CRM tools  
-
-</div>
-
-<div style="border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f0f0f0, #ffffff); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-
-### 🎓 UNIDOCS  
-**Academic Automation**  
-🔹 Document generation  
-🔹 Secure cloud storage  
-🔹 Intelligent retrieval  
-🔹 RBAC system  
-
-</div>
-
-<div style="border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f0f0f0, #ffffff); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
-
-### 🍽️ BALUNGI  
-**Restaurant POS**  
-🔹 Table management  
-🔹 Multi-payment options  
-🔹 Kitchen integration  
-🔹 Analytics dashboard  
-
-</div>
-
-</div>
+| 📦 NDUKO-SHOP POS | 🎓 UNIDOCS Automation | 🍽️ BALUNGI Restaurant POS |
+|------------------|----------------------|--------------------------|
+| **Retail Management Solution** | **Academic Document Management** | **Hospitality Management Suite** |
+| ✔️ Real-time sales tracking | ✔️ Automated document generation | ✔️ Table management |
+| ✔️ Inventory management | ✔️ Secure cloud storage | ✔️ Multi-payment integration |
+| ✔️ Automated reporting | ✔️ Intelligent retrieval | ✔️ Kitchen order tracking |
+| ✔️ CRM tools | ✔️ Role-based access | ✔️ Sales analytics |
 ---
 
 ## 🌐 Web Development Portfolio
