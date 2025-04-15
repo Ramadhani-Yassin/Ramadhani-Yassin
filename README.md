@@ -46,7 +46,7 @@ A versatile developer blending **technical expertise** with **accounting acumen*
 ## 🚀 Featured Projects
 
 
-|--------------|------------------|------------------|---------------------|
+
 | **NDUKO-SHOP** | **UNIDOCS** | **BALUNGI** | **Zanzibar Grocery** |
 | 📊 Live sales | 🤖 Auto-docs | 🪑 Tables | 📱 User app |
 | 📦 Inventory | ☁️ Cloud docs | 💳 Payments | 💻 Admin portal |
