@@ -28,9 +28,9 @@
 
 ## 👨🏾💻 About Me
 
-| About Me | GitHub Stats |
-|----------|--------------|
-| **A versatile developer** blending **Technical expertise** with **Accountancy acumen**.<br><br>**Core Competencies:**<br>✔️ Cross-Platform Development<br>✔️ Network Administration<br>✔️ Database Architecture<br>✔️ Digital Branding Strategy | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true&include_all_commits=true&count_private=true) |
+| &nbsp; | &nbsp; |
+|--------|--------|
+| **A versatile developer** blending **Technical expertise** with **Accountancy acumen**.<br><br>**Core Competencies:**<br>✔️ Cross-Platform Development<br>✔️ Network Administration<br>✔️ Database Architecture<br>✔️ Digital Branding Strategy | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radial&show_icons=true) |
 ---
 
 
