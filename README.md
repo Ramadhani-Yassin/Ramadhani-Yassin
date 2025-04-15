@@ -30,9 +30,9 @@
 
 <table>
   <tr>
-    <td width="60%">
+    <td valign="top" width="60%">
       
-A versatile developer blending **Technical expertise** with **Accountancy acumen**.
+**A versatile developer** blending **Technical expertise** with **Accountancy acumen**.
 
 **Core Competencies:**  
 ✔️ Cross-Platform Development  
@@ -41,9 +41,8 @@ A versatile developer blending **Technical expertise** with **Accountancy acumen
 ✔️ Digital Branding Strategy  
 
     </td>
-    <td width="40%">
+    <td valign="top" width="40%">
 
-## 📊 GitHub Stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true&include_all_commits=true&count_private=true)
 
     </td>
