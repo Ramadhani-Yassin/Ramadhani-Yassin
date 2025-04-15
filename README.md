@@ -54,7 +54,7 @@ A versatile developer blending **Technical expertise** with **Accounting acumen*
 | BALUNGI Restaurant POS| Desktop POS  | [GitHub Repo](https://github.com/Ramadhani-Yassin/BALUNGI-RESTAURANT-POS) | ![Live](https://img.shields.io/badge/Deployed-Success-brightgreen) |
 | UNIDOCS Automation    | Web System   | [GitHub Repo](https://github.com/Ramadhani-Yassin/UNIDOCS)         | ![Active](https://img.shields.io/badge/Active-Development-blue) |
 | NDUKO-SHOP            | Retail POS   | [GitHub Repo](https://github.com/Ramadhani-Yassin/NDUKO-SHOP)     | ![Live](https://img.shields.io/badge/Deployed-Success-brightgreen) |
-| AquaAdventures        | Mobile + Web    | [GitHub Repo](https://github.com/Ramadhani-Yassin/AquaAdventures)  | ![Active](https://img.shields.io/badge/Active-Development-blue) |
+| AquaAdventures        | Mobile + Web    | [Repository](https://github.com/Ramadhani-Yassin/AquaAdventures)  | ![Active](https://img.shields.io/badge/Active-Development-blue) |
 ---
 
 ## 📬 Let's Connect
