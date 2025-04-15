@@ -45,13 +45,13 @@ A versatile developer blending **technical expertise** with **accounting acumen*
 
 ## 🚀 Featured Projects
 
-| 📦 NDUKO-SHOP POS | 🎓 UNIDOCS Automation | 🍽️ BALUNGI Restaurant POS |
-|------------------|----------------------|--------------------------|
-| **Retail Management Solution** | **Academic Document Management** | **Hospitality Management Suite** |
-| ✔️ Real-time sales tracking | ✔️ Automated document generation | ✔️ Table management |
-| ✔️ Inventory management | ✔️ Secure cloud storage | ✔️ Multi-payment integration |
-| ✔️ Automated reporting | ✔️ Intelligent retrieval | ✔️ Kitchen order tracking |
-| ✔️ CRM tools | ✔️ Role-based access | ✔️ Sales analytics |
+| 🛍️ Retail POS | 📚 Academic System | 🍽️ Restaurant POS | 🛒 Grocery Ecosystem |
+|--------------|------------------|------------------|---------------------|
+| **NDUKO-SHOP** | **UNIDOCS** | **BALUNGI** | **Zanzibar Grocery** |
+| 📊 Live sales | 🤖 Auto-docs | 🪑 Tables | 📱 User app |
+| 📦 Inventory | ☁️ Cloud docs | 💳 Payments | 💻 Admin portal |
+| 📈 Reports | 🔍 Smart search | 👨‍🍳 Kitchen | 🚚 Delivery mgmt |
+| 👥 CRM | 🔐 RBAC | 📊 Analytics | 🔄 Live inventory |
 ---
 
 ## 🌐 Web Development Portfolio
