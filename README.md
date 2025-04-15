@@ -29,12 +29,13 @@
 ## 👨🏾💻 About Me
 
 A versatile developer blending **Technical expertise** with **Accountancy acumen**. 
-**Core Competencies:**
+
+**Core Competencies:**  
 
 ✔️ Cross-Platform Development 
-✔️ Network Administration   
+✔️ Network Administration    
 ✔️ Database Architecture  
-✔️ Digital Branding Strategy  
+✔️ Digital Branding Strategy   
 
 ## 📊 GitHub Stats
 
