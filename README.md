@@ -25,52 +25,45 @@
 </div>
 
 ---
-
 ## 👨🏾💻 About Me
 
-<table>
-  <!-- Desktop View -->
-  <tr>
-    <td width="60%" style="border:none;">
-      **A versatile developer** blending **Technical expertise** with **Accountancy acumen**.
-      <br><br>
-      **Core Competencies:**<br>
-      ✔️ Cross-Platform Development<br>
-      ✔️ Network Administration<br>
-      ✔️ Database Architecture<br>
-      ✔️ Digital Branding Strategy
-    </td>
-    <td width="40%" style="border:none;">
-      <img src="https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true" width="100%">
-    </td>
-  </tr>
-</table>
+A versatile developer blending **Technical expertise** with **Accounting acumen**. My passion lies in:
 
-<!-- Mobile Fallback -->
-<details>
-  <summary><b>📱 Mobile View</b></summary>
-  
-  **A versatile developer** blending **Technical expertise** with **Accountancy acumen**.
-  
-  **Core Competencies:**  
-  ✔️ Cross-Platform Development  
-  ✔️ Network Administration  
-  ✔️ Database Architecture  
-  ✔️ Digital Branding Strategy
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true)
-</details>
+
+**Core Competencies:**  
+✔️ Network Administration  
+✔️ Cross-Platform Development  
+✔️ Database Architecture  
+✔️ Digital Branding Strategy  
+
 ---
 
 ## 🚀 Featured Projects
 
+### 📦 NDUKO-SHOP POS System
+**Retail Management Solution**  
+Modern POS system featuring:
+- Real-time sales tracking
+- Inventory management
+- Automated reporting
+- Customer relationship tools
 
-| **NDUKO-SHOP POS** | **UNIDOCS Automation** | **BALUNGI Restaurant POS** | **Zanzibar Grocery App** |
-|--------------------|-----------------------|---------------------------|--------------------------|
-| 📊 Live sales | 🤖 Auto-docs | 🪑 Tables | 📱 User app |
-| 📦 Inventory | ☁️ Cloud docs | 💳 Payments | 💻 Admin portal |
-| 📈 Reports | 🔍 Smart search | 👨‍🍳 Kitchen | 🚚 Delivery mgmt |
-| 👥 CRM | 🔐 RBAC | 📊 Analytics | 🔄 Live inventory |
+### 🎓 UNIDOCS Automation System
+**Academic Document Management**  
+Digital solution for universities:
+- Automated document generation
+- Secure cloud storage
+- Intelligent retrieval system
+- Role-based access control
+
+### 🍽️ BALUNGI Restaurant POS
+**Hospitality Management Suite**  
+Comprehensive platform offering:
+- Table management
+- Multi-payment integration
+- Kitchen order tracking
+- Sales analytics dashboard
+
 ---
 
 ## 🌐 Web Development Portfolio
