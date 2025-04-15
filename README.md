@@ -2,6 +2,7 @@
 |----------------------|----------------------------------------------------------------------------------------------------------------------------------|
 
 <span style="font-size: 0.9em; color: #555;">🚀 Tech Enthusiast | Full-Stack Developer | DataBricks Learner | Tech-Savvy Accountant</span>
+
 ---
 
 <div align="center">
