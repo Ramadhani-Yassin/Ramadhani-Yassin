@@ -4,10 +4,9 @@
 **🚀 Tech Enthusiast | Full-Stack Developer | DataBricks Learner | Tech-Savvy Accountant**
 ---
 
-## 📊 GitHub Analytics
 <div align="center">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhani-Yassin&theme=radical&layout=compact" width="48%">
   <img src="https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true&include_all_commits=true" width="48%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhani-Yassin&theme=radical&layout=compact" width="48%">
 </div>
 
 ---
