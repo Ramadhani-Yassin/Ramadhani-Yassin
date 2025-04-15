@@ -42,31 +42,45 @@ A versatile developer blending **technical expertise** with **accounting acumen*
 
 ---
 
+
 ## 🚀 Featured Projects
 
-### 📦 NDUKO-SHOP POS System
-**Retail Management Solution**  
-Modern POS system featuring:
-- Real-time sales tracking
-- Inventory management
-- Automated reporting
-- Customer relationship tools
+<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; margin: 20px 0;">
 
-### 🎓 UNIDOCS Automation System
-**Academic Document Management**  
-Digital solution for universities:
-- Automated document generation
-- Secure cloud storage
-- Intelligent retrieval system
-- Role-based access control
+<div style="border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f0f0f0, #ffffff); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
 
-### 🍽️ BALUNGI Restaurant POS
-**Hospitality Management Suite**  
-Comprehensive platform offering:
-- Table management
-- Multi-payment integration
-- Kitchen order tracking
-- Sales analytics dashboard
+### 📦 NDUKO-SHOP  
+**Retail POS System**  
+🔹 Real-time sales tracking  
+🔹 Inventory management  
+🔹 Automated reporting  
+🔹 CRM tools  
+
+</div>
+
+<div style="border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f0f0f0, #ffffff); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+### 🎓 UNIDOCS  
+**Academic Automation**  
+🔹 Document generation  
+🔹 Secure cloud storage  
+🔹 Intelligent retrieval  
+🔹 RBAC system  
+
+</div>
+
+<div style="border-radius: 10px; padding: 15px; background: linear-gradient(145deg, #f0f0f0, #ffffff); box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+
+### 🍽️ BALUNGI  
+**Restaurant POS**  
+🔹 Table management  
+🔹 Multi-payment options  
+🔹 Kitchen integration  
+🔹 Analytics dashboard  
+
+</div>
+
+</div>
 ---
 
 ## 🌐 Web Development Portfolio
