@@ -28,10 +28,10 @@
 
 ## 👨🏾💻 About Me
 
-A versatile developer blending **TECHNICAL expertise** with **ACCOUNTANCY acumen**. 
-**Core Competencies:**  
-✔️ Network Administration  
-✔️ Cross-Platform Development  
+A versatile developer blending **Technical expertise** with **Accountancy acumen**. 
+**Core Competencies:**
+✔️ Cross-Platform Development 
+✔️ Network Administration   
 ✔️ Database Architecture  
 ✔️ Digital Branding Strategy  
 
