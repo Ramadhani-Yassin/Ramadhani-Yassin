@@ -50,11 +50,11 @@ A versatile developer blending **Technical expertise** with **Accounting acumen*
 |-----------------------|--------------|---------------------------------------------------------------------|--------|
 | The Chwaka House      | Website      | [chwakahouse.co.tz](https://www.chwakahouse.co.tz)                 | ![Live](https://img.shields.io/badge/Live-Success-brightgreen) |
 | SAMOK Consulting      | Website      | [samokconsulting.co.tz](https://www.samokconsulting.co.tz)         | ![Dev](https://img.shields.io/badge/In_Development-Orange) |
-| Zanzibar Grocery App  | Mobile + Web | [GitHub Repo](https://github.com/Ramadhani-Yassin/Grocery-App)     | ![Active](https://img.shields.io/badge/Active-Development-blue) |
-| BALUNGI Restaurant POS| Desktop POS  | [GitHub Repo](https://github.com/Ramadhani-Yassin/BALUNGI-RESTAURANT-POS) | ![Live](https://img.shields.io/badge/Deployed-Success-brightgreen) |
-| UNIDOCS Automation    | Web System   | [GitHub Repo](https://github.com/Ramadhani-Yassin/UNIDOCS)         | ![Active](https://img.shields.io/badge/Active-Development-blue) |
-| NDUKO-SHOP            | Retail POS   | [GitHub Repo](https://github.com/Ramadhani-Yassin/NDUKO-SHOP)     | ![Live](https://img.shields.io/badge/Deployed-Success-brightgreen) |
-| AquaAdventures        | Mobile + Web    | [Repository](https://github.com/Ramadhani-Yassin/AquaAdventures)  | ![Active](https://img.shields.io/badge/Active-Development-blue) |
+| Zanzibar Grocery App  | Mobile + Web | [Go To Repository](https://github.com/Ramadhani-Yassin/Grocery-App)     | ![Active](https://img.shields.io/badge/Active-Development-blue) |
+| BALUNGI Restaurant POS| Desktop POS  | [Go To Repository](https://github.com/Ramadhani-Yassin/BALUNGI-RESTAURANT-POS) | ![Live](https://img.shields.io/badge/Deployed-Success-brightgreen) |
+| UNIDOCS Automation    | Web System   | [Go To Repository](https://github.com/Ramadhani-Yassin/UNIDOCS)         | ![Active](https://img.shields.io/badge/Active-Development-blue) |
+| NDUKO-SHOP            | Retail POS   | [Go To Repository](https://github.com/Ramadhani-Yassin/NDUKO-SHOP)     | ![Live](https://img.shields.io/badge/Deployed-Success-brightgreen) |
+| AquaAdventures        | Mobile + Web    | [Go To Repository](https://github.com/Ramadhani-Yassin/AquaAdventures)  | ![Active](https://img.shields.io/badge/Active-Development-blue) |
 ---
 
 ## 📬 Let's Connect
