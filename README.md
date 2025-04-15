@@ -46,27 +46,13 @@ A versatile developer blending **technical expertise** with **accounting acumen*
 
 ### 📦 NDUKO-SHOP POS System
 **Retail Management Solution**  
-Modern POS system featuring:
-- Real-time sales tracking
-- Inventory management
-- Automated reporting
-- Customer relationship tools
+
 
 ### 🎓 UNIDOCS Automation System
 **Academic Document Management**  
-Digital solution for universities:
-- Automated document generation
-- Secure cloud storage
-- Intelligent retrieval system
-- Role-based access control
 
 ### 🍽️ BALUNGI Restaurant POS
 **Hospitality Management Suite**  
-Comprehensive platform offering:
-- Table management
-- Multi-payment integration
-- Kitchen order tracking
-- Sales analytics dashboard
 
 ---
 
