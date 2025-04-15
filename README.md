@@ -47,7 +47,10 @@ A versatile developer blending **technical expertise** with **accounting acumen*
 
 
 
-| **NDUKO-SHOP** | **UNIDOCS** | **BALUNGI** | **Zanzibar Grocery** |
+## 🚀 Featured Projects
+
+| **NDUKO-SHOP POS** | **UNIDOCS Automation** | **BALUNGI Restaurant POS** | **Zanzibar Grocery App** |
+|--------------------|-----------------------|---------------------------|--------------------------|
 | 📊 Live sales | 🤖 Auto-docs | 🪑 Tables | 📱 User app |
 | 📦 Inventory | ☁️ Cloud docs | 💳 Payments | 💻 Admin portal |
 | 📈 Reports | 🔍 Smart search | 👨‍🍳 Kitchen | 🚚 Delivery mgmt |
