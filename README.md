@@ -40,7 +40,9 @@ A versatile developer blending **technical expertise** with **accounting acumen*
 ✔️ Database Architecture  
 ✔️ Digital Branding Strategy  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin &theme=radical)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical)
 ---
 
 
