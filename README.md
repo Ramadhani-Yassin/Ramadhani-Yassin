@@ -5,11 +5,10 @@
 
 ---
 
-<div align="center" style="display: flex; align-items: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true&include_all_commits=true" style="height: 195px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhani-Yassin&theme=radical&layout=compact" style="height: 195px;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true&include_all_commits=true" style="height: 195px; border-radius: 8px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhani-Yassin&theme=radical&layout=compact" style="height: 195px; border-radius: 8px;">
 </div>
-
 ---
 
 ## 🛠️ Tech Stack
