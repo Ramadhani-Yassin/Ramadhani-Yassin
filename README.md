@@ -28,12 +28,7 @@
 
 ## 👨🏾💻 About Me
 
-A versatile developer blending **technical expertise** with **accounting acumen**. My passion lies in:
-- Building full-stack solutions with cybersecurity best practices
-- Developing business-oriented tech innovations
-- Bridging software development with financial systems
-- Creating impactful digital experiences through web & mobile platforms
-
+A versatile developer blending **TECHNICAL expertise** with **ACCOUNTANCY acumen**. 
 **Core Competencies:**  
 ✔️ Network Administration  
 ✔️ Cross-Platform Development  
