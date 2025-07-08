@@ -5,25 +5,25 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: nowrap; overflow-x: auto; padding: 10px;">
   <!-- GitHub Stats -->
   <img 
     src="https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true&count_private=true&include_all_commits=true" 
-    style="height: 195px; border-radius: 8px;" 
+    style="width: 350px; border-radius: 8px;" 
     alt="GitHub Stats"
   />
 
   <!-- Top Languages -->
   <img 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhani-Yassin&theme=radical&layout=compact&langs_count=6" 
-    style="height: 195px; border-radius: 8px;" 
+    style="width: 350px; border-radius: 8px;" 
     alt="Top Languages"
   />
 
   <!-- Streak Stats -->
   <img 
     src="https://github-readme-streak-stats.herokuapp.com?user=Ramadhani-Yassin&theme=radical&hide_border=false" 
-    style="height: 195px; border-radius: 8px;" 
+    style="width: 350px; border-radius: 8px;" 
     alt="GitHub Streak"
   />
 </div>
