@@ -5,18 +5,38 @@
 
 ---
 
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <!-- FIXED: Added count_private=true to include private contributions -->
-  <!-- FIXED: Added show_owner to show correct repo ownership -->
-  <!-- FIXED: Added border_radius for consistent styling -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&hide_border=false&border_radius=8" style="height: 195px; border-radius: 8px;">
+<div align="center">
+  <!-- Profile Summary Cards (Most Accurate) -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramadhani-Yassin&theme=radical" />
   
-  <!-- FIXED: Excludes forked repos for accurate language stats -->
-  <!-- FIXED: Added langs_count to show more languages -->
-  <!-- FIXED: Added hide_progress for cleaner look -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhani-Yassin&theme=radical&layout=compact&langs_count=8&hide_progress=false&exclude_repo=forked-repo1,forked-repo2&hide=html,css" style="height: 195px; border-radius: 8px;">
+  <br/><br/>
+  
+  <!-- Accurate Stats Row 1 -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="400" />
+    
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramadhani-Yassin&theme=radical" width="400" />
+  </div>
+  
+  <br/>
+  
+  <!-- Accurate Stats Row 2 -->
+  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhani-Yassin&theme=radical&layout=compact&langs_count=10&exclude_repo=forked1,forked2" width="400" />
+    
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramadhani-Yassin&theme=radical" width="400" />
+  </div>
+  
+  <br/>
+  
+  <!-- Productive Time -->
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramadhani-Yassin&theme=radical&utcOffset=3" width="400" />
+  
+  <br/><br/>
+  
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramadhani-Yassin&theme=radical&bg_color=141321&hide_border=true&area=true" width="95%" />
 </div>
-
 ---
 
 ## 🛠️ Tech Stack
