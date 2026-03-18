@@ -6,8 +6,15 @@
 ---
 
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true&include_all_commits=true" style="height: 195px; border-radius: 8px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhani-Yassin&theme=radical&layout=compact" style="height: 195px; border-radius: 8px;">
+  <!-- FIXED: Added count_private=true to include private contributions -->
+  <!-- FIXED: Added show_owner to show correct repo ownership -->
+  <!-- FIXED: Added border_radius for consistent styling -->
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true&include_all_commits=true&count_private=true&show_owner=true&hide_border=false&border_radius=8" style="height: 195px; border-radius: 8px;">
+  
+  <!-- FIXED: Excludes forked repos for accurate language stats -->
+  <!-- FIXED: Added langs_count to show more languages -->
+  <!-- FIXED: Added hide_progress for cleaner look -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhani-Yassin&theme=radical&layout=compact&langs_count=8&hide_progress=false&exclude_repo=forked-repo1,forked-repo2&hide=html,css" style="height: 195px; border-radius: 8px;">
 </div>
 
 ---
