@@ -4,38 +4,9 @@
 🚀 Tech Enthusiast | Full-Stack Developer | DataBricks Learner | Tech-Savvy Accountant
 
 ---
-
-<div align="center">
-  <!-- Profile Summary Cards (Most Accurate) -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramadhani-Yassin&theme=radical" />
-  
-  <br/><br/>
-  
-  <!-- Accurate Stats Row 1 -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage" width="400" />
-    
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramadhani-Yassin&theme=radical" width="400" />
-  </div>
-  
-  <br/>
-  
-  <!-- Accurate Stats Row 2 -->
-  <div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhani-Yassin&theme=radical&layout=compact&langs_count=10&exclude_repo=forked1,forked2" width="400" />
-    
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ramadhani-Yassin&theme=radical" width="400" />
-  </div>
-  
-  <br/>
-  
-  <!-- Productive Time -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Ramadhani-Yassin&theme=radical&utcOffset=3" width="400" />
-  
-  <br/><br/>
-  
-  <!-- Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramadhani-Yassin&theme=radical&bg_color=141321&hide_border=true&area=true" width="95%" />
+<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true&include_all_commits=true" style="height: 195px; border-radius: 8px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhani-Yassin&theme=radical&layout=compact" style="height: 195px; border-radius: 8px;">
 </div>
 ---
 
