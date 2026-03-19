@@ -4,11 +4,15 @@
 🚀 Tech Enthusiast | Full-Stack Developer | DataBricks Learner | Tech-Savvy Accountant
 
 ---
+<!--
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true&include_all_commits=true" style="height: 195px; border-radius: 8px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhani-Yassin&theme=radical&layout=compact" style="height: 195px; border-radius: 8px;">
 </div>
----
+-->
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramadhani-Yassin&theme=radical">
+
 
 ## 🛠️ Tech Stack
 
