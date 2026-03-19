@@ -47,124 +47,20 @@ A versatile developer blending **Technical expertise** with **Accounting acumen*
 ✔️ Digital Branding Strategy  
 
 ---
-<table>
-  <thead>
-    <tr>
-      <th>Project</th>
-      <th>Type</th>
-      <th>URL</th>
-      <th>Status</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>The Chwaka House</td>
-      <td>Website</td>
-      <td><a href="https://www.chwakahouse.co.tz" target="_blank" rel="noopener noreferrer" class="project-link">chwakahouse.co.tz</a></td>
-      <td><img src="https://img.shields.io/badge/Live-Success-brightgreen" alt="Live"></td>
-    </tr>
-    <tr>
-      <td>ZRCP</td>
-      <td>Website</td>
-      <td><a href="https://www.zrcp.or.tz" target="_blank" rel="noopener noreferrer" class="project-link">ZRCP Web</a></td>
-      <td><img src="https://img.shields.io/badge/Live-Success-brightgreen" alt="Live"></td>
-    </tr>
-    <tr>
-      <td>SAMOK Consulting</td>
-      <td>Website</td>
-      <td><a href="https://www.samokconsulting.co.tz" target="_blank" rel="noopener noreferrer" class="project-link">samokconsulting.co.tz</a></td>
-      <td><img src="https://img.shields.io/badge/Live-Success-brightgreen" alt="Live"></td>
-    </tr>
-    <tr>
-      <td>Zanzibar Weather Dashboard</td>
-      <td>ETL Web App</td>
-      <td><a href="https://zanzibar-tourism-sites-weather.vercel.app/" target="_blank" rel="noopener noreferrer" class="project-link">Weather Dashboard</a></td>
-      <td><img src="https://img.shields.io/badge/Live-Success-brightgreen" alt="Live"></td>
-    </tr>
-    <tr>
-      <td>ZIBI Magazine</td>
-      <td>Website</td>
-      <td><a href="https://zibi.co.tz/" target="_blank" rel="noopener noreferrer" class="project-link">ZIBI Magazine Web App</a></td>
-      <td><img src="https://img.shields.io/badge/Live-Success-brightgreen" alt="Live"></td>
-    </tr>
-    <tr>
-      <td>Alsa Tours Web App</td>
-      <td>Website</td>
-      <td><a href="https://alsatours.co.tz/" target="_blank" rel="noopener noreferrer" class="project-link">Alsa Tours Website</a></td>
-      <td><img src="https://img.shields.io/badge/Live-Success-brightgreen" alt="Live"></td>
-    </tr>
-    <tr>
-      <td>Zanzibar Grocery App</td>
-      <td>Mobile + Web</td>
-      <td><a href="https://github.com/Ramadhani-Yassin/Grocery-App" target="_blank" rel="noopener noreferrer" class="project-link">Link To Repository</a></td>
-      <td><img src="https://img.shields.io/badge/Active-Development-blue" alt="Active"></td>
-    </tr>
-    <tr>
-      <td>BALUNGI Restaurant POS</td>
-      <td>Desktop POS</td>
-      <td><a href="https://github.com/Ramadhani-Yassin/BALUNGI-RESTAURANT-POS" target="_blank" rel="noopener noreferrer" class="project-link">Link To Repository</a></td>
-      <td><img src="https://img.shields.io/badge/Deployed-Success-brightgreen" alt="Live"></td>
-    </tr>
-    <tr>
-      <td>UNIDOCS Automation</td>
-      <td>Web System</td>
-      <td><a href="https://github.com/Ramadhani-Yassin/UNIDOCS" target="_blank" rel="noopener noreferrer" class="project-link">Link To Repository</a></td>
-      <td><img src="https://img.shields.io/badge/Active-Development-blue" alt="Active"></td>
-    </tr>
-    <tr>
-      <td>NDUKO-SHOP</td>
-      <td>Retail POS</td>
-      <td><a href="https://github.com/Ramadhani-Yassin/NDUKO-SHOP" target="_blank" rel="noopener noreferrer" class="project-link">Link To Repository</a></td>
-      <td><img src="https://img.shields.io/badge/Deployed-Success-brightgreen" alt="Live"></td>
-    </tr>
-  </tbody>
-</table>
+## 🌐 Project Portfolio
 
-<style>
-  .project-link {
-    display: inline-block;
-    padding: 6px 12px;
-    background-color: #f0f0f0;
-    border: 1px solid #ddd;
-    border-radius: 4px;
-    text-decoration: none;
-    color: #333;
-    font-weight: 500;
-    transition: all 0.3s ease;
-  }
-  
-  .project-link:hover {
-    background-color: #e0e0e0;
-    border-color: #999;
-    transform: translateY(-2px);
-    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-  }
-  
-  .project-link:active {
-    transform: translateY(0);
-  }
-  
-  table {
-    border-collapse: collapse;
-    width: 100%;
-    margin: 20px 0;
-  }
-  
-  th, td {
-    border: 1px solid #ddd;
-    padding: 12px;
-    text-align: left;
-  }
-  
-  th {
-    background-color: #f5f5f5;
-    font-weight: bold;
-  }
-  
-  tr:hover {
-    background-color: #f9f9f9;
-  }
-</style>
+| Project | Type | URL | Status |
+|---------|------|-----|--------|
+| The Chwaka House | Website | [chwakahouse.co.tz](https://www.chwakahouse.co.tz) | ![Live](https://img.shields.io/badge/Live-Success-brightgreen) |
+| ZRCP | Website | [ZRCP Web](https://www.zrcp.or.tz) | ![Live](https://img.shields.io/badge/Live-Success-brightgreen) |
+| SAMOK Consulting | Website | [samokconsulting.co.tz](https://www.samokconsulting.co.tz) | ![Live](https://img.shields.io/badge/Live-Success-brightgreen) |
+| Zanzibar Weather Dashboard | ETL Web App | [Weather Dashboard](https://zanzibar-tourism-sites-weather.vercel.app/) | ![Live](https://img.shields.io/badge/Live-Success-brightgreen) |
+| ZIBI Magazine | Website | [ZIBI Magazine Web App](https://zibi.co.tz/) | ![Live](https://img.shields.io/badge/Live-Success-brightgreen) |
+| Alsa Tours Web App | Website | [Alsa Tours Website](https://alsatours.co.tz/) | ![Live](https://img.shields.io/badge/Live-Success-brightgreen) |
+| Zanzibar Grocery App | Mobile + Web | [Link To Repository](https://github.com/Ramadhani-Yassin/Grocery-App) | ![Active](https://img.shields.io/badge/Active-Development-blue) |
+| BALUNGI Restaurant POS | Desktop POS | [Link To Repository](https://github.com/Ramadhani-Yassin/BALUNGI-RESTAURANT-POS) | ![Live](https://img.shields.io/badge/Deployed-Success-brightgreen) |
+| UNIDOCS Automation | Web System | [Link To Repository](https://github.com/Ramadhani-Yassin/UNIDOCS) | ![Active](https://img.shields.io/badge/Active-Development-blue) |
+| NDUKO-SHOP | Retail POS | [Link To Repository](https://github.com/Ramadhani-Yassin/NDUKO-SHOP) | ![Live](https://img.shields.io/badge/Deployed-Success-brightgreen) |
 
 ---
 
