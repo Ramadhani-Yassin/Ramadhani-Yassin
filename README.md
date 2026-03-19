@@ -13,6 +13,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramadhani-Yassin&theme=radical">
 
+---
 
 ## 🛠️ Tech Stack
 
@@ -54,6 +55,8 @@ A versatile developer blending **Technical expertise** with **Accounting acumen*
 | ZRCP     | Website      | [ZRCP Web](https://www.zrcp.or.tz)         | ![Dev](https://img.shields.io/badge/Live-Success-brightgreen) |
 | SAMOK Consulting      | Website      | [samokconsulting.co.tz](https://www.samokconsulting.co.tz)         | ![Dev](https://img.shields.io/badge/Live-Success-brightgreen) |
 | Zanzibar Weather Dashboard   | ETL Web App     | [Weather Dashboard](https://zanzibar-tourism-sites-weather.vercel.app/)         | ![Dev](https://img.shields.io/badge/Live-Success-brightgreen) |
+| ZIBI Magazine      | Website      | [ZIBI Magazine Web App](https://zibi.co.tz/)                 | ![Live](https://img.shields.io/badge/Live-Success-brightgreen) |
+| Alsa Tours Web App    | Website      | [Alsa Tours Website](https://alsatours.co.tz/)                 | ![Live](https://img.shields.io/badge/Live-Success-brightgreen) |
 | Zanzibar Grocery App  | Mobile + Web | [Link To Repository](https://github.com/Ramadhani-Yassin/Grocery-App)     | ![Active](https://img.shields.io/badge/Active-Development-blue) |
 | BALUNGI Restaurant POS| Desktop POS  | [Link To Repository](https://github.com/Ramadhani-Yassin/BALUNGI-RESTAURANT-POS) | ![Live](https://img.shields.io/badge/Deployed-Success-brightgreen) |
 | UNIDOCS Automation    | Web System   | [Link To Repository](https://github.com/Ramadhani-Yassin/UNIDOCS)         | ![Active](https://img.shields.io/badge/Active-Development-blue) |
