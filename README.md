@@ -51,16 +51,16 @@ A versatile developer blending **Technical expertise** with **Accounting acumen*
 
 | Project | Type | URL | Status |
 |---------|------|-----|--------|
-| The Chwaka House | Website | [chwakahouse.co.tz](https://www.chwakahouse.co.tz) | ![Live](https://img.shields.io/badge/Live-Success-brightgreen) |
-| ZRCP | Website | [ZRCP Web](https://www.zrcp.or.tz) | ![Live](https://img.shields.io/badge/Live-Success-brightgreen) |
-| SAMOK Consulting | Website | [samokconsulting.co.tz](https://www.samokconsulting.co.tz) | ![Live](https://img.shields.io/badge/Live-Success-brightgreen) |
-| Zanzibar Weather Dashboard | ETL Web App | [Weather Dashboard](https://zanzibar-tourism-sites-weather.vercel.app/) | ![Live](https://img.shields.io/badge/Live-Success-brightgreen) |
-| ZIBI Magazine | Website | [ZIBI Magazine Web App](https://zibi.co.tz/) | ![Live](https://img.shields.io/badge/Live-Success-brightgreen) |
-| Alsa Tours Web App | Website | [Alsa Tours Website](https://alsatours.co.tz/) | ![Live](https://img.shields.io/badge/Live-Success-brightgreen) |
-| Zanzibar Grocery App | Mobile + Web | [Link To Repository](https://github.com/Ramadhani-Yassin/Grocery-App) | ![Active](https://img.shields.io/badge/Active-Development-blue) |
-| BALUNGI Restaurant POS | Desktop POS | [Link To Repository](https://github.com/Ramadhani-Yassin/BALUNGI-RESTAURANT-POS) | ![Live](https://img.shields.io/badge/Deployed-Success-brightgreen) |
-| UNIDOCS Automation | Web System | [Link To Repository](https://github.com/Ramadhani-Yassin/UNIDOCS) | ![Active](https://img.shields.io/badge/Active-Development-blue) |
-| NDUKO-SHOP | Retail POS | [Link To Repository](https://github.com/Ramadhani-Yassin/NDUKO-SHOP) | ![Live](https://img.shields.io/badge/Deployed-Success-brightgreen) |
+| The Chwaka House | Website | chwakahouse.co.tz | [![Live](https://img.shields.io/badge/Live-Success-brightgreen)](https://www.chwakahouse.co.tz) |
+| ZRCP | Website | ZRCP Web | [![Live](https://img.shields.io/badge/Live-Success-brightgreen)](https://www.zrcp.or.tz) |
+| SAMOK Consulting | Website | samokconsulting.co.tz | [![Live](https://img.shields.io/badge/Live-Success-brightgreen)](https://www.samokconsulting.co.tz) |
+| Zanzibar Weather Dashboard | ETL Web App | Weather Dashboard | [![Live](https://img.shields.io/badge/Live-Success-brightgreen)](https://zanzibar-tourism-sites-weather.vercel.app/) |
+| ZIBI Magazine | Website | ZIBI Magazine Web App | [![Live](https://img.shields.io/badge/Live-Success-brightgreen)](https://zibi.co.tz/) |
+| Alsa Tours Web App | Website | Alsa Tours Website | [![Live](https://img.shields.io/badge/Live-Success-brightgreen)](https://alsatours.co.tz/) |
+| Zanzibar Grocery App | Mobile + Web | Link To Repository | [![Active](https://img.shields.io/badge/Active-Development-blue)](https://github.com/Ramadhani-Yassin/Grocery-App) |
+| BALUNGI Restaurant POS | Desktop POS | Link To Repository | [![Live](https://img.shields.io/badge/Deployed-Success-brightgreen)](https://github.com/Ramadhani-Yassin/BALUNGI-RESTAURANT-POS) |
+| UNIDOCS Automation | Web System | Link To Repository | [![Active](https://img.shields.io/badge/Active-Development-blue)](https://github.com/Ramadhani-Yassin/UNIDOCS) |
+| NDUKO-SHOP | Retail POS | Link To Repository | [![Live](https://img.shields.io/badge/Deployed-Success-brightgreen)](https://github.com/Ramadhani-Yassin/NDUKO-SHOP) |
 
 ---
 
