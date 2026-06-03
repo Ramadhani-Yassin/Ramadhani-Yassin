@@ -44,7 +44,7 @@ A versatile developer blending **Technical expertise** with **Accounting acumen*
 ---
 ## 🌐 Project Portfolio
 
-[![Click to View My Full Project Portfolio →](https://img.shields.io/badge/📁_Click_to_View_My_Full_Project_Portfolio_→-0088CC?style=for-the-badge&logo=vercel&logoColor=white)](https://ramadhani-yassin.vercel.app)
+[![Click to View My Full Projects Portfolio →](https://img.shields.io/badge/📁_Click_to_View_My_Full_Project_Portfolio_→-0088CC?style=for-the-badge&logo=vercel&logoColor=white)](https://ramadhani-yassin.vercel.app)
 
 ---
 
