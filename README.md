@@ -4,9 +4,34 @@
 🚀 Tech Enthusiast | Full-Stack Developer | DataBricks Learner | Tech-Savvy Accountant
 
 ---
-<div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true&include_all_commits=true" style="height: 195px; border-radius: 8px;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhani-Yassin&theme=radical&layout=compact" style="height: 195px; border-radius: 8px;">
+
+<!-- NEW RELIABLE CARDS - OPTIMIZED AND WORKING -->
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramadhani-Yassin&theme=radical&hide_border=true" alt="GitHub Streak" width="100%">
+      </td>
+      <td width="50%">
+        <img src="https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" width="100%">
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhani-Yassin&theme=radical&hide_border=true&layout=compact&langs_count=8" alt="Top Languages" width="60%">
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ACTIVITY GRAPH - RELIABLE AND COOL -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramadhani-Yassin&theme=redical&hide_border=true&area=true" alt="GitHub Activity Graph" width="95%">
+</div>
+
+<!-- TROPHY CARDS - DIFFERENT AND WORKING -->
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Ramadhani-Yassin&theme=radical&no-frame=true&row=2&column=4" alt="GitHub Trophies">
 </div>
 
 ---
