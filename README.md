@@ -12,15 +12,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramadhani-Yassin&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="70%" alt="GitHub Streak">
   
   <br><br>
-  
-  <!-- Activity Graph - Working and reliable -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramadhani-Yassin&theme=react-dark&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ff6b6b&hide_border=true" width="95%" alt="GitHub Activity Graph">
-  
-</div>
 
----
-
-## 🛠️ Tech Stack
+  ## 🛠️ Tech Stack
 
 <div class="tech-stack">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java">
@@ -34,6 +27,14 @@
 </div>
 
 ---
+  
+  <!-- Activity Graph - Working and reliable -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramadhani-Yassin&theme=react-dark&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ff6b6b&hide_border=true" width="95%" alt="GitHub Activity Graph">
+  
+</div>
+
+---
+
 ## 👨🏾💻 About Me
 
 A versatile developer blending **Technical expertise** with **Accounting acumen**.
