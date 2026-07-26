@@ -1,4 +1,4 @@
-| 👋 Hi, I'm Ramadhani | [![View My CV](https://img.shields.io/badge/View_My_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1vaZ1URhNWYplZS_BbeXkYuK0mYsCyAUM/view?usp=drive_link "target=_blank") |
+| 👋 Hi, I'm Ramadhani | <a href="https://drive.google.com/file/d/1vaZ1URhNWYplZS_BbeXkYuK0mYsCyAUM/view?usp=drive_link" target="_blank"><img src="https://img.shields.io/badge/View_My_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="View My CV"></a> |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------------|
 
 🚀 Tech Enthusiast | Full-Stack Developer | DataBricks Learner | Tech-Savvy Accountant
@@ -39,7 +39,7 @@ A versatile developer blending **Technical expertise** with **Accounting acumen*
 ---
 ## 🌐 Project Portfolio
 
-[![Click to View My Projects Portfolio](https://img.shields.io/badge/View_My_Projects_Portfolio-4285F4?style=for-the-badge&logo=codefactor&logoColor=white)](https://ramadhani-yassin.vercel.app "target=_blank")
+<a href="https://ramadhani-yassin.vercel.app" target="_blank"><img src="https://img.shields.io/badge/View_My_Projects_Portfolio-4285F4?style=for-the-badge&logo=codefactor&logoColor=white" alt="View My Projects Portfolio"></a>
 
 ---
 
