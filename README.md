@@ -1,17 +1,13 @@
-| 👋 Hi, I'm Ramadhani | [![View My CV](https://img.shields.io/badge/View_My_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1vaZ1URhNWYplZS_BbeXkYuK0mYsCyAUM/view?usp=drive_link) |
+| 👋 Hi, I'm Ramadhani | [![View My CV](https://img.shields.io/badge/View_My_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1vaZ1URhNWYplZS_BbeXkYuK0mYsCyAUM/view?usp=drive_link "target=_blank") |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------------|
 
 🚀 Tech Enthusiast | Full-Stack Developer | DataBricks Learner | Tech-Savvy Accountant
 
 ---
-<!--
 <div align="center" style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
   <img src="https://github-readme-stats.vercel.app/api?username=Ramadhani-Yassin&theme=radical&show_icons=true&include_all_commits=true" style="height: 195px; border-radius: 8px;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ramadhani-Yassin&theme=radical&layout=compact" style="height: 195px; border-radius: 8px;">
 </div>
--->
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ramadhani-Yassin&theme=radical">
 
 ---
 
@@ -26,7 +22,6 @@
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <!-- <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="Angular"> -->
 </div>
 
 ---
@@ -44,7 +39,7 @@ A versatile developer blending **Technical expertise** with **Accounting acumen*
 ---
 ## 🌐 Project Portfolio
 
-[![Click to View My Projects Portfolio](https://img.shields.io/badge/View_My_Projects_Portfolio-4285F4?style=for-the-badge&logo=codefactor&logoColor=white)](https://ramadhani-yassin.vercel.app)
+[![Click to View My Projects Portfolio](https://img.shields.io/badge/View_My_Projects_Portfolio-4285F4?style=for-the-badge&logo=codefactor&logoColor=white)](https://ramadhani-yassin.vercel.app "target=_blank")
 
 ---
 
