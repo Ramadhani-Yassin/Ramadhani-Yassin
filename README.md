@@ -3,15 +3,7 @@
 
 🚀 Tech Enthusiast | Full-Stack Developer | DataBricks Learner | Tech-Savvy Accountant
 
----
-
-<!-- ✅ KEEPING ONLY WORKING CARDS - HIDING BROKEN ONES -->
-<!-- <div align="center">
   
-  <!-- Streak Stats - Working and reliable -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ramadhani-Yassin&theme=radical&hide_border=true&background=0d1117&stroke=ff6b6b&ring=ff6b6b&fire=ff6b6b&currStreakNum=c9d1d9&sideNums=c9d1d9&currStreakLabel=c9d1d9&sideLabels=c9d1d9&dates=c9d1d9" width="70%" alt="GitHub Streak">
-  
-  <br><br> -->
 
   ## 🛠️ Tech Stack
 
