@@ -20,11 +20,6 @@
 </div>
 
 ---
-  
-  <!-- Activity Graph - Working and reliable -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ramadhani-Yassin&theme=react-dark&bg_color=0d1117&color=ff6b6b&line=ff6b6b&point=ff6b6b&hide_border=true" width="95%" alt="GitHub Activity Graph">
-  
-</div>
 
 ---
 
