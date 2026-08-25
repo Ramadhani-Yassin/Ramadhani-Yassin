@@ -21,8 +21,6 @@
 
 ---
 
----
-
 ## 👨🏾💻 About Me
 
 A versatile developer blending **Technical expertise** with **Accounting acumen**.
