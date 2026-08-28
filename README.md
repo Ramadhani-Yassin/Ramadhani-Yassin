@@ -1,4 +1,4 @@
-| 👋 Hi, I'm Ramadhani | <a href="https://drive.google.com/file/d/1vaZ1URhNWYplZS_BbeXkYuK0mYsCyAUM/view?usp=drive_link" target="_blank"><img src="https://drive.google.com/file/d/1ZEBxi2_lVu-a9BV6vQDRWC4Efn3Z7rhy/view?usp=sharing" alt="View My CV"></a> |
+| 👋 Hi, I'm Ramadhani | <a href="https://drive.google.com/file/d/1ZEBxi2_lVu-a9BV6vQDRWC4Efn3Z7rhy/view?usp=sharing" target="_blank"><img src="https://img.shields.io/badge/View_My_CV-4285F4?style=for-the-badge&logo=google-drive&logoColor=white" alt="View My CV"></a> |
 |----------------------|----------------------------------------------------------------------------------------------------------------------------------|
 
 🚀 Tech Enthusiast | Full-Stack Developer | DataBricks Learner | Tech-Savvy Accountant
